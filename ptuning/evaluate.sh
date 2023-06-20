@@ -4,8 +4,8 @@ STEP=3000
 
 CUDA_VISIBLE_DEVICES=0 python3 main.py \
     --do_predict \
-    --validation_file AdvertiseGen/dev.json \
-    --test_file AdvertiseGen/dev.json \
+    --validation_file dev.json \
+    --test_file dev.json \
     --overwrite_cache \
     --prompt_column content \
     --response_column summary \
