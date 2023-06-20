@@ -18,4 +18,4 @@ CUDA_VISIBLE_DEVICES=0 python3 main.py \
     --per_device_eval_batch_size 1 \
     --predict_with_generate \
     --pre_seq_len $PRE_SEQ_LEN \
-    --quantization_bit 4
+ 
