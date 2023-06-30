@@ -1,12 +1,63 @@
-{"content": "This image shows a parking lot with several buildings and trees in the background. The building appears to be abandoned and there are no people or vehicles in the lot. The weather is cloudy. The road is made of asphalt and bricks and there is a fence running along the edge of the lot. The atmosphere is quiet and still.", "summary": "change it to a sunny day"}
-{"content": "The image shows a long, empty road stretching out into a green field with a blue sky in the background. There are no people or vehicles in the image. The road is lined with white lines, and the sky is filled with fluffy white clouds. The weather is sunny and the season is spring. The lighting is bright and the atmosphere is peaceful.", "summary": "remove the clouds and add some buildings on the side of the road"}
-{"content": "The image shows a street scene with clothing stores in the background, and a pedestrian standing on the sidewalk on the right side of the image. The stores have large windows display with clothing items. The sun is shining. The atmosphere is bright and cheerful.", "summary": "change the stores to restaurants"}
-{"content": "The image shows a street with rain falling from the sky. There are cars driving on the road without people walking on the sidewalk. There are trees on the sides of the road and traffic lights at the intersection. The lighting is dim and the atmosphere is gloomy.", "summary": "Add a bus stop on the side of the road"}
-{"content": "The sun sets over the ocean as palm trees sway in the breeze on the side of the road. Cars drive by on the busy street, with people walking along the sidewalk. The sky is a beautiful orange and pink hue, with the sun setting behind the palm trees. The atmosphere is peaceful and serene, with the sound of waves crashing on the shore in the distance.", "summary": "Turning the sky blue and purple"}
-{"content": "The image shows a busy street with a red double-decker bus driving down the road. There are several people walking on the sidewalk and red brick houses in the background. The sky is overcast and there are a few trees on the side of the road. The atmosphere is bustling and lively.", "summary": "Increase the traffic flow."}
-{"content": "This image shows a street with bicycles parked on the sidewalk. The street is lined with tall trees and buildings on either side. There are no people walking on the sidewalk and cars parking and driving on the road. The weather is sunny and the season is spring or summer. The lighting is bright and the atmosphere is lively.", "summary": "Add some garbage bins."}
-{"content": "Image shows a city street with tall buildings on either side. There are several cars driving on the road, including taxis. There is also a green belt in the middle of the street. The weather is sunny and there are people walking on the sidewalk. The atmosphere is bustling and lively.", "summary": "Change the architecture in the background to classical Chinese style"}
-{"content": "The image shows a dirt road lined with small houses made of mud and straw. The sky is overcast and there are no people in sight. The lighting is dull and the atmosphere is quiet and deserted. The weather is likely hot and dry, as evidenced by the dusty road and the lack of vegetation. The season is likely summer, as the sky is overcast and there is no rain or greenery in sight.", "summary": "Replace the road in the picture with a concrete road"}
-{"content": "The image shows a dirt road leading to a rural area with a small house in the background. The sky is clear and the sun is shining. There is a person riding a bicycle on the road. The road is curved and there are trees on both sides of the road. The surroundings are peaceful and serene. There is a field on one side of the road. The atmosphere is peaceful and serene.", "summary": "Remove the trees"}
-
-
+[
+{
+    "content":"This image shows a parking lot with several buildings and trees in the background. The building appears to be abandoned and there are no people or vehicles in the lot. The weather is cloudy. The road is made of asphalt and bricks and there is a fence running along the edge of the lot. The atmosphere is quiet and still.",
+    "summary":"Add three pickup trucks to the parking lot."
+ },{
+    "content":"The image shows a long, empty road stretching out into a green field with a blue sky in the background. There are no people or vehicles in the image. The road is lined with white lines, and the sky is filled with fluffy white clouds. The weather is sunny and the season is spring. The lighting is bright and the atmosphere is peaceful.",
+    "summary":"Transform into a sunset scene."
+ },{
+    "content":"The image shows a street scene with clothing stores in the background, and a pedestrian standing on the sidewalk on the right side of the image. The stores have large windows display with clothing items. The sun is shining. The atmosphere is bright and cheerful.",
+    "summary":"replace the clothing stores to banks"
+ },{
+    "content":"The image shows a street with rain falling from the sky. There are cars driving on the road without people walking on the sidewalk. There are trees on the sides of the road and traffic lights at the intersection. The lighting is dim and the atmosphere is gloomy.",
+    "summary":"Transform into a scene with bright sunshine."
+ },{
+    "content":"The sun sets over the ocean as palm trees sway in the breeze on the side of the road. Cars drive by on the busy street, with people walking along the sidewalk. The sky is a beautiful orange and pink hue, with the sun setting behind the palm trees. The atmosphere is peaceful and serene, with the sound of waves crashing on the shore in the distance.",
+    "summary":"Change the sky to a blue-purple color."
+ },{
+    "content":"The image shows a busy street with a red double-decker bus driving down the road. There are several people walking on the sidewalk and red brick houses in the background. The sky is overcast and there are a few trees on the side of the road. The atmosphere is bustling and lively.",
+    "summary":"Add some greenery on both sides of the road, such as trees, flowers, or lawns."
+ },{
+    "content":"This image shows a street with bicycles parked on the sidewalk. The street is lined with tall trees and buildings on either side. There are no people walking on the sidewalk and cars parking and driving on the road. The weather is sunny and the season is spring or summer. The lighting is bright and the atmosphere is lively.",
+    "summary":"Add some bike-sharing stations in the image."
+ },{
+    "content":"based on this description: Image shows a city street with tall buildings on either side. There are several cars driving on the road, including taxis. There is also a green belt in the middle of the street. The weather is sunny and there are people walking on the sidewalk. The atmosphere is bustling and lively. Generate a content-related edit instruction",
+    "summary":"Change the architecture in the background to classical Chinese style"
+ },{
+    "content":"based on this description: The image shows a dirt road lined with small houses made of mud and straw. The sky is overcast and there are no people in sight. The lighting is dull and the atmosphere is quiet and deserted. The weather is likely hot and dry, as evidenced by the dusty road and the lack of vegetation. The season is likely summer, as the sky is overcast and there is no rain or greenery in sight. Generate a content-related edit instruction",
+    "summary":"Replace the road in the picture with a concrete road"
+ },{
+    "content":"based on this description: The image shows a dirt road leading to a rural area with a small house in the background. The sky is clear and the sun is shining. There is a person riding a bicycle on the road. The road is curved and there are trees on both sides of the road. The surroundings are peaceful and serene. There is a field on one side of the road. The atmosphere is peaceful and serene. Generate a content-related edit instruction",
+    "summary":"Remove the trees"
+ }, {
+    "content":"The image shows a view of a city street with cars driving on it. The sun is shining brightly in the sky, casting a warm glow on the road. There are trees on the side of the road, and a fence running along the side of the road. The fence is made of metal bars and has a gate at the end. There are no people in the image. The weather is clear and sunny. The atmosphere is bright and serene.",
+    "summary":"Add a bicycle lane."
+},{
+    "content":"The image shows a car running on the road, with rain falling from the sky. and there are other cars parked on the street in the background. The weather is rainy, and the season is spring. There are no people in the image, and no activities are taking place. The lighting is dim, with the rain casting a shadow on the car. The atmosphere is wet and gloomy.",
+    "summary":"make the road looks dangerous"
+},{
+    "content":"This image shows a street corner with a stop sign at the intersection. There are several cars parked on the street. The buildings on the corner are small and have a mix of architectural styles. The weather is cloudy and there are several clouds in the sky. The season is spring or summer. The lighting is bright and the atmosphere is calm.",
+    "summary":"Transform into a scene of post-war ruins."
+},{
+    "content":"This image shows a residential street with two houses on either side. The houses are made of wood and have large windows and porches. There are trees and bushes in the front yard, and a power line running along the street. The weather is sunny and there are no people in the image. The atmosphere is peaceful and serene.",
+    "summary":"Clear the weeds in the picture to make it look like a well-maintained area."
+},{
+    "content":"The image shows a cityscape of a bustling city street with tall buildings on either side. The sky is overcast with white clouds and the sun is shining through them, casting a bright light on the street. There are no people in the image, but there are cars driving on the road. The buildings are made of concrete and steel, with white and blue windows. The atmosphere is lively and bustling.",
+    "summary":"Change the lighting angle."
+},{
+    "content":"This image shows a street with a row of houses on either side. There is a car parked on the sidewalk in front of one of the houses. The trees in the background are in full leaf, and there are some leaves on the ground. The atmosphere is quiet and peaceful.",
+    "summary":"Make the street cleaner and tidier."
+},{
+    "content":"This image shows a residential street with several houses on either side. There are cars parked on the street. The sky is cloudy and overcast, and there are trees on either side of the street. The houses are all different colors and styles, with some having white or yellow siding and others having brown or green. The street is well maintained, with no litter or debris visible. The atmosphere is quiet and peaceful, with no noise or activity in the image.",
+    "summary":"change it to night"
+},{
+    "content":"The image shows a street with a man walking down the middle of the road. There are no cars or other vehicles in the image. The man is wearing a suit and tie, and he is carrying a briefcase. The sky is cloudy. The road is lined with trees on the left side and there are a few buildings on the side of the road. The overall atmosphere is quiet and peaceful.",
+    "summary":"Put a hat on the person in the picture."
+},{
+    "content":"This image shows a residential street with houses on the left side. The houses are two-story with white siding and green lawns. There is a white car parked on the side of the street, and there are trees lining the sidewalk. The weather is sunny and there is a blue sky with several clouds. The road is paved well. The atmosphere is quiet and peaceful.",
+    "summary":"add a rainbow"
+},{
+    "content":"The image shows a street with a grassy median dividing the road. There are trees on either side of the road and a few cars running on the road. The sky is clear and there are clouds in the distance. The road is well maintained and there are no potholes or cracks. The atmosphere is peaceful and serene.",
+    "summary":"add a bus lane"
+}
+]
