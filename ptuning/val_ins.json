@@ -1,0 +1,690 @@
+[
+    {
+        "content": "This image shows a wooded area with trees on either side of a dirt road. The trees are dressed in autumn foliage, with leaves in various shades of yellow, orange, and red. There is a grassy area in the foreground, and a power line running along the top of the image. The lighting is bright and sunny, with the sun shining down through the trees. The atmosphere is peaceful and serene. There are no people or activities visible in the image. The weather is likely fall-like, with crisp air and the possibility of leaves falling from the trees. Overall, the image is picturesque and evokes a sense of calm and tranquility.",
+        "summary": "Remove the green grass in the foreground."
+    },
+    {
+        "content": "The image shows a wooded road with trees on either side. There are no cars or people in the image. The weather appears to be sunny and there is a slight amount of lighting through the trees. The atmosphere is peaceful and serene.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "The image shows a residential street with several houses on either side. The houses are two-story with white siding and gray roofs. There are several cars parked on the street, but none are moving. The street is lined with trees and there is a sidewalk on either side. The sky is clear and there are several clouds in the distance. The atmosphere is quiet and peaceful.",
+        "summary": "Change the houses in the picture to two-story white buildings."
+    },
+    {
+        "content": "This image shows a residential street with two cars parked on the side of the road. The houses on the street are two-story with white windows and green shutters. There are some trees and shrubs in the front yard and a small lawn in the backyard. The weather appears to be sunny and there are no visible activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green shutters to pine trees."
+    },
+    {
+        "content": "This image shows a row of houses on a residential street. There are several cars parked in front of the houses, and the weather appears to be sunny and clear. The atmosphere is quiet and peaceful. The road is paved, and the buildings are made of brick. There are trees and greenery in the background. The lighting is bright and sunny.",
+        "summary": "Change the buildings in the picture to Victorian architecture."
+    },
+    {
+        "content": "This image shows a street with several cars parked on the side of a residential road. The houses behind the road are visible, and there are some trees and greenery on the side of the road. The weather appears to be sunny and there are no apparent activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Remove the trees in the picture and replace them with a road."
+    },
+    {
+        "content": "This image shows a row of three residential houses on a street. The houses are made of red brick and have white windows and doors. There are several cars parked in front of the houses, which are all white in this image. The weather is sunny and there is no rain or other precipitation in the image. The road is paved and there are no potholes or other imperfections. The atmosphere is quiet and peaceful, with no noise or disturbance in the image.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "This image shows a residential street with several red brick houses on either side of the road. There are several cars parked on the street, including a sedan and a SUV. The weather is sunny and there is a slight breeze blowing through the trees. The atmosphere is quiet and peaceful.",
+        "summary": "Change the houses in the picture to single-story buildings."
+    },
+    {
+        "content": "This image shows a residential street with several white and silver vehicles parked on the side of the road. The houses behind the vehicles are painted in different colors and have small porches or decks on the front. The sky is clear and blue with a few white clouds. The atmosphere is quiet and peaceful. There are no people in the image. The weather is sunny.",
+        "summary": "Add a red door to the houses."
+    },
+    {
+        "content": "This image shows a red pickup truck parked in front of a residential house on a street. The house is made of red brick and has two stories. There are trees and greenery in the yard. The weather is sunny and the lighting is bright and clear. The atmosphere is peaceful and quiet.",
+        "summary": "Change the house in the picture to a yellow brick house."
+    },
+    {
+        "content": "This image shows a street with several parked cars on the side of a residential neighborhood. The houses are two-story with white walls and green shutters. There are some trees and small bushes in the front yard. The weather appears to be sunny and there are no apparent activities happening on the street. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green shutters to pine trees."
+    },
+    {
+        "content": "This image shows a residential street with several houses. The houses are made of wood and have white windows and green shutters. There are several cars parked on the street, including a white van and a silver sedan. The weather is sunny and there is no rain or other weather conditions visible in the image. The atmosphere is quiet and peaceful, with no visible activity or people in the street. The lighting is bright and evenly distributed, with the sun shining down on the houses and the cars. Overall, the image conveys a sense of a quiet and peaceful residential neighborhood.",
+        "summary": "Change the green shutters to a car"
+    },
+    {
+        "content": "This image shows a row of three residential houses on a residential street. The houses are made of red brick and have white windows and doors. There are two cars parked on the street in front of the houses, one red and one white. The weather is sunny and the road is well-paved. The atmosphere is quiet and peaceful.",
+        "summary": "Change the white cars to red SUV."
+    },
+    {
+        "content": "This image shows a street with several parked cars on the side of a residential building. The building is a row of red brick apartments with white windows and white roofs. There are some trees and greenery on the side of the street. The weather appears to be sunny and there are no apparent activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Remove the cars on the ground."
+    },
+    {
+        "content": "This image shows a residential street with several red brick houses on either side of the road. There are several cars parked on the street, including one with a bumper sticker displaying the name 'Jordan'. The street is lined with trees and there is a sidewalk on either side. The weather is sunny and there are no apparent activities or people in the image. The atmosphere is quiet and suburban.",
+        "summary": "Change the houses in the picture to Victorian architecture."
+    },
+    {
+        "content": "The image shows a street with a few houses on either side. There are power lines running along the street, and a car is parked on the side of the road. The weather appears to be sunny and there are trees on either side of the street. The road is paved and the houses are well maintained. The atmosphere is quiet and peaceful.",
+        "summary": "Change the low houses in the picture to high houses."
+    },
+    {
+        "content": "This image shows a residential street on a sunny day. The street is lined with trees and has a few houses on either side. There is a small park at the end of the street. The houses are made of red brick and have white trim and green roofs. There are no cars on the street, and there are a few people walking on the sidewalk. The weather is sunny, and the atmosphere is peaceful and quiet. The road is paved and well maintained. The lighting is bright and sunny, with shadows cast by the trees and buildings.",
+        "summary": "Add a red car park at the end of the street."
+    },
+    {
+        "content": "This image shows a residential street on a sunny day. The street is lined with trees and has two houses on either side, one of which has a white pickup truck and the other a grey sedan. The houses are made of red brick and have white trim and green shutters. There are no people or cars in the image, and the atmosphere is quiet and peaceful. The lighting is bright and sunny, with shadows cast by the trees and buildings. The weather is likely cloudy or overcast, as the sun is visible but not shining directly onto the street. The season is likely spring or fall, as there are trees with leaves on the street and in the yards of the houses.",
+        "summary": "Change the green shutters to red ones."
+    },
+    {
+        "content": "This image shows a residential street with several houses on either side. The houses are white with green shutters and red roofs. There are a few trees and bushes on the street, and a sidewalk running along the street. In the background, there is a cloudy sky with a few light clouds. The street is well maintained, with no litter or debris in sight. The atmosphere is quiet and peaceful, with no visible activity or noise.",
+        "summary": "Remove the clouds"
+    },
+    {
+        "content": "The image shows a residential street with several houses on the left side and a park on the right side. The houses are made of brick and have green roofs. There are several cars parked on the street, including a red car and a white car. The sky is clear and blue, with a few clouds in the distance. The road is well maintained and there are no visible defects or damage. The atmosphere is quiet and peaceful, with no visible activity or noise.",
+        "summary": "Change the white car to a red one."
+    },
+    {
+        "content": "This image shows a residential street with houses on either side. The houses are well maintained and have well-manicured lawns. There are trees along the street, including a small evergreen hedge in front of one of the houses. The sky is clear and blue, with several clouds in the distance. The road is well maintained and there are no visible signs of traffic or pedestrians. The overall atmosphere is quiet and suburban.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "The image shows a residential street with several houses on either side. The houses are made of red brick and have white trim. There are trees lining the street, including small bushes and tall trees. There is a power line running along the top of the image, and several cars are parked on the street. The sky is blue and there are clouds in the distance. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a residential street on a sunny day. The street is lined with trees and has a sidewalk on either side. There are several houses on the street, with one in the foreground. The houses are made of red brick and have white trim. There are no people or vehicles in the image, and the atmosphere is peaceful and suburban. The lighting is bright and sunny, with the sun shining down on the street and houses. The weather is clear and sunny, with few clouds in the sky.",
+        "summary": "Remove the sidewalk"
+    },
+    {
+        "content": "The image shows a street with a park on the left side and a building on the right side. There are several trees and bushes in the park, and there are a few cars parked along the street. The sky is clear and there are no clouds in sight. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the buildings in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a street corner with a traffic light at the intersection. There are several cars parked on the road, and pedestrians are walking on the sidewalk. The road is lined with trees on either side, and there is a small park or green space at the corner. The lighting is dim, with shadows cast by the trees and buildings on the road. The atmosphere is quiet and serene, with no visible activity or noise in the image.",
+        "summary": "Change the green space at the corner to a park."
+    },
+    {
+        "content": "The image shows a residential street with several houses on either side. The houses are well-maintained and there are some trees and lawns in front of them. The street is narrow and there is a small park at the end of the street. There are no cars parked on the street, but there are some cars in the driveways. The weather is sunny and the atmosphere is quiet and peaceful.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a residential street with several houses on either side. The street is lined with trees and there is a small park at the end of the street. The houses are made of red brick and have white trim and black roofs. There are no people or vehicles on the street or in the park. The weather is sunny and there is a slight breeze. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "The image shows a street with residential houses on either side. There are no people or cars in the image. The street is lined with trees and there is a power pole at the end of the street. The sky is clear and there are no clouds in sight. The atmosphere is quiet and peaceful. The lighting is bright and the sun is shining directly over the street, creating a warm and welcoming atmosphere.",
+        "summary": "Change the power pole to a cobblestone pole."
+    },
+    {
+        "content": "The image shows a residential street with several trees lining the sidewalk and a couple of cars parked on the side of the road. The street is lined with tall grass on either side and there are several trees in the background. The weather appears to be sunny and there are no apparent activities or lighting effects in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the scene to a rainy day"
+    },
+    {
+        "content": "This image shows a residential street with several houses on either side. There are several cars parked on the street, including a yellow truck. The houses are made of red brick and have white trim and green shutters. They are set back from the road and are surrounded by green lawns and trees. The sky is cloudy and overcast, and there are no visible people or activities in the image. The overall atmosphere is quiet and suburban.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "This image shows a two-story house with a garage on the side of the road. The house is located on a residential street with trees and lawns on either side. There are no people or activities visible in the image. The lighting is bright and the atmosphere is quiet. The weather is not visible in the image.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "The image shows a street with a few trees and power lines on the sidewalk. There are no cars or people in the image. The sky is cloudy and there is a slight breeze visible in the trees. The atmosphere is quiet and peaceful. The road is well maintained and there are no visible signs or markings on it. The building in the image appears to be a residential home with several trees in front of it. The lighting is bright and the image is well lit.",
+        "summary": "Change the road to a Asphalt Road."
+    },
+    {
+        "content": "The image shows a street with a small park on the left side and a few trees on the right side. There are no people or vehicles on the street. The sky is clear and there are no clouds in sight. The lighting is bright and the atmosphere is calm.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "The image shows a rural road surrounded by trees and power lines. There is a grassy field on either side of the road, and in the distance, you can see a building or structure. The weather is sunny and there are no clouds in the sky. The road is well maintained and there are no potholes or cracks. The atmosphere is peaceful and serene. No activity is visible in the image.",
+        "summary": "Change the road to a cobblestone road."
+    },
+    {
+        "content": "The image shows a residential street with two cars parked on the side of the road. There are trees on either side of the street, and there is a small park at the end of the street. The houses on the street are well maintained and have large front yards with trees and shrubs. The weather is sunny and there are no visible clouds in the sky. The atmosphere is quiet and peaceful.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "The image shows a residential street with several houses on the left side. The houses are made of red brick and have white windows and doors. There are several cars parked on the street, including a red sedan and a black SUV. The street is well maintained and there are no visible signs of disrepair or litter. The weather is sunny and there are trees on either side of the street. The atmosphere is quiet and peaceful.",
+        "summary": "Change the SUV to a bus."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side. The houses are two-story with white siding and green shutters. There are trees lining the street and a power line running along the top of the image. There are no people or cars in the image, and the weather is sunny with a few clouds in the sky. The atmosphere is quiet and peaceful.",
+        "summary": "Add a bus stop"
+    },
+    {
+        "content": "This image shows a residential street with two cars parked on the side of the road. The building in the background appears to be a apartments or houses with several windows and a balcony. The weather is likely sunny and there are trees on either side of the street. The road is paved and there are no visible obstacles or debris in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Remove the cars"
+    },
+    {
+        "content": "The image shows a residential street with several houses on the left side and a park on the right side. The street is lined with trees and there are several cars parked on the side of the road. The houses are well maintained and have green lawns. The weather is sunny and there are no apparent activities or people in the image. The atmosphere is peaceful and serene.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a residential street with two houses on either side. The houses are made of white stucco and have two or three stories. There are two cars parked on the street, one on the left side and one on the right side. The street is well maintained with well-trimmed bushes on either side and there are no visible trash or debris. The atmosphere is quiet and suburban. The weather is sunny and there are no clouds in the sky. The season is spring or summer.",
+        "summary": "Add a running bus to the scene."
+    },
+    {
+        "content": "This image shows a street with several parked cars on the side of the road. There are several houses in the background, with two or three floors each. The road is well maintained and there are some trees on the side of the road. The weather is sunny and there are no clouds in the sky. The atmosphere is quiet and peaceful.",
+        "summary": "Change the buildings in the picture to Victorian architecture."
+    },
+    {
+        "content": "The image shows a residential street with tall trees lining the sidewalk on either side. There are several cars parked on the street, and some people can be seen walking on the sidewalk. The street is well-maintained, and the houses on either side are well-kept with green lawns and trees. The atmosphere is quiet and peaceful, with no noise or activity visible in the image. The lighting is bright and sunny, with the sun shining down on the street and the trees casting shadows on the sidewalk. Overall, the image provides a picturesque view of a quiet residential street.",
+        "summary": "Remove the trees on the ground."
+    },
+    {
+        "content": "This image shows a street with a few cars parked on the side of the road. There are trees on either side of the street, and a building on the corner of the street. The building appears to be a residential house. The weather is sunny and there are no people or activities visible in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the scene to a rainy day"
+    },
+    {
+        "content": "This image shows a road with a tree lined on either side. The tree is in full leaf and the road is well maintained. There are no cars or people in the image. The weather is sunny and the atmosphere is peaceful. The lighting is bright and the sky is clear.",
+        "summary": "Add a moving vehicle to the scene."
+    },
+    {
+        "content": "The image shows a road with a green wall on one side and a wooded area on the other. There is a car running on the road. The weather appears to be sunny and there are no visible activities or people in the image. The lighting is bright and the atmosphere is peaceful.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "This image shows a grassy field with a few trees in the background. There is a power line running along the side of the field, and no visible activity or people in the image. The lighting is bright and sunny, with the sun shining down on the field. The atmosphere is peaceful and serene.",
+        "summary": "Add a moving vehicle"
+    },
+    {
+        "content": "This image shows a roadside in a wooded area. The road is lined with trees on either side and there are power lines running along the top of the image. The lighting is bright and the atmosphere is peaceful. There are no visible buildings or structures in the image. The weather appears to be sunny and there are no visible clouds in the sky.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "This image shows a street with several cars parked on the side of the road. The street is lined with trees and there is a building on the left side of the image. The building appears to be white with a small fence in front of it. The weather appears to be sunny and there are no apparent activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Add a traffic light"
+    },
+    {
+        "content": "This image shows a street with several cars parked on the side of the road, running along the street. There are several houses on the left side of the street, with windows and doors visible. The sky is clear and blue. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green houses in the picture to pine houses."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side. The houses are made of brick and have white windows and red doors. There are several cars parked on the street, including a red sedan and a grey SUV. The street is lined with trees and there is a small park at the end of the street. The weather is sunny and there are no visible cars or people on the street. The atmosphere is quiet and peaceful.",
+        "summary": "Change the sedan to a pickup truck."
+    },
+    {
+        "content": "This image shows a row of three red brick houses on a residential street. There are several cars parked in front of the houses, and the street is lined with trees and bushes. The atmosphere is quiet and peaceful, and the weather appears to be sunny and warm. The road is paved, and the buildings are well-maintained. There are no visible people or activities in the image. The overall impression is one of a quiet, peaceful neighborhood.",
+        "summary": "remove the trees in the picture"
+    },
+    {
+        "content": "The image shows a residential street with two white houses on either side. The houses have white picket fences and green lawns. There are several trees lining the street, and there is a sidewalk on either side of the street. In the driveway of one of the houses, there is a white car parked. The sky is clear and blue, with a few white clouds. The road is well-maintained, and the houses are in good condition. The overall atmosphere is peaceful and suburban.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "This image shows a vacant lot with a fenced building in the background. There are several cars parked on the street in front of the building. The sky is clear and blue with some clouds. The atmosphere is quiet and peaceful.",
+        "summary": "remove the buildings"
+    },
+    {
+        "content": "The image shows a street with several parked cars on either side. The building on the street appears to be a warehouse or industrial facility with several large doors and windows. The sky is overcast, with clouds billowing in the distance. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the buildings in the picture to high-rise skyscrapers."
+    },
+    {
+        "content": "The image shows a street with a row of houses on the left side and a park on the right side. The sky is cloudy and there are several cars parked on the street. The road is well maintained and the buildings are in good condition. The atmosphere is quiet and peaceful. There are no people visible in the image.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a residential street with several cars parked on the side of the road. The houses on the street are well-maintained and there are trees and greenery on either side of the road. The weather appears to be sunny and there are no apparent activities or lighting effects that stand out in the image. The atmosphere is quiet and serene.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a rural road with a grassy field on either side. There are power lines running along the road, and there are no visible buildings or other structures in the background. The weather appears to be sunny and there are trees in the foreground. The lighting is likely bright and sunny, and the atmosphere is peaceful and serene.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "The image shows a street with lush green trees lining the sidewalk. There are no people visible in the image. The weather appears to be sunny and there is a slight breeze visible in the image. The road is well maintained and the building on the left appears to be a single family home. The atmosphere is peaceful and serene.",
+        "summary": "Add a traffic light"
+    },
+    {
+        "content": "The image shows a road located in a wooded area. The road is lined with trees on both sides and there are power lines running along the top of the image. On the left side of the road, there is a small park with green grass and trees. On the right side of the road, there is a sidewalk leading to a residential area. The weather is sunny and there are no visible clouds in the sky. The lighting is bright and the atmosphere is peaceful. There are no visible activities or people in the image.",
+        "summary": "Remove the trees on the ground."
+    },
+    {
+        "content": "The image shows a highway with large trees on either side and a cloudy sky in the background. There are several cars driving on the highway, with some passing by each other. The road is well-lit, and the atmosphere is quiet and serene.",
+        "summary": "Change the buildings in the picture to high-rise skyscrapers."
+    },
+    {
+        "content": "The image shows a road with a divider in the middle. There are cars driving on the road, there are trees on the sides of the road. The weather is cloudy. The building on the road is not clear. The atmosphere is quiet.",
+        "summary": "Change the houses in the picture to single-story buildings."
+    },
+    {
+        "content": "This image shows a parking lot with several cars parked on it. The sky is clear and blue, and there is a cell phone tower in the distance. The road is well maintained and there are no visible obstacles or debris. The atmosphere is calm and peaceful.",
+        "summary": "Change the green trees in the picture to pine trees."
+    },
+    {
+        "content": "This image shows a parking lot with several cars parked in it. The sky is cloudy and overcast, and there are no visible buildings or structures in the background. The cars are all different makes and models, and there are no people visible in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the low-rise houses in the picture to a large shopping mall."
+    },
+    {
+        "content": "The image shows a city street with trees lining the sidewalk on either side. There are no cars driving on the road, and there is a pedestrian walking on the sidewalk. The weather is sunny, and the season is spring. The road is well maintained and the buildings on either side are modern in design. The atmosphere is peaceful and serene.",
+        "summary": "Change the buildings on the ground level to high-rise skyscrapers."
+    },
+    {
+        "content": "The image shows a road with a green belt on either side. There are trees along the roadside and a few cars driving on the road. The weather is sunny and there is no rain or other precipitation. The atmosphere is peaceful and serene.",
+        "summary": "Add some pedestrians."
+    },
+    {
+        "content": "The image shows a road with trees lining on both sides. There are no cars or people visible in the image. The weather appears to be sunny and there is a slight mist in the air. The atmosphere is peaceful and serene.",
+        "summary": "add a dog"
+    },
+    {
+        "content": "The image shows a street with a small park on the left side. There are several trees and a playground in the park. On the right side of the street, there are houses with green lawns and a few cars driving on the road. The sky is clear and blue with a few clouds. There are no people in the image. The lighting is bright and the atmosphere is peaceful.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "The image shows a street with two lanes on each side lined with trees and a building in the background. The sky is clear with a bright sun shining on the road. There are no vehicles or people on the street. The atmosphere is quiet and peaceful. The lighting is bright with the sun shining on the road and the building.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "The image shows a street with a sign on the left side reading 'Welcome to Our Neighborhood' and a large tree on the right side of the street. The street is lined with trees and there are no cars visible in the image. The weather appears to be sunny and there are no apparent activities or people in the image. The lighting is bright and the atmosphere is peaceful.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side of the street. The houses are made of red brick and have white trim. There are trees lining the street, including a large tree in the front yard of one of the houses. Several cars are parked in the driveways, including a red sedan and a grey SUV. The weather is sunny and there is a green leafy tree in the front yard of one of the houses. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green tree in the picture to a Maple tree."
+    },
+    {
+        "content": "The image shows a street with residential houses on either side. There are several cars parked on the street, including a red sedan and a white SUV. The street is lined with trees and there is a small park at the end of the street. The weather is sunny and there are no visible clouds in the sky. The atmosphere is quiet and peaceful.",
+        "summary": "Change the sedan to a SUV."
+    },
+    {
+        "content": "The image shows a residential street with several houses on either side. The houses are made of brick and have well-manicured lawns. There are trees lining the street, including a large oak tree in the center of the image. Several cars are parked in driveways, and there are no people visible in the image. The weather is sunny and the atmosphere is quiet and peaceful. The road is well-maintained and there are no visible potholes or defects. The lighting is bright and the shadows are well-defined. Overall, the image provides a peaceful and welcoming atmosphere for the residents of the street.",
+        "summary": "remove the houses"
+    },
+    {
+        "content": "The image shows a residential street with two cars running on the road. The street is lined with trees and has a smooth surface. The houses on either side of the street are well-maintained and have large windows with shutters. The weather is sunny and there are no apparent activities on the street. The atmosphere is quiet and peaceful.",
+        "summary": "Change the two cars to Maples."
+    },
+    {
+        "content": "The image shows a street with a sign that reads 'no parking' on the sidewalk. There are trees lining the sidewalk and a small park can be seen in the background. The weather is sunny and there are no visible vehicles on the road. The building on the corner is a residential house with green grass and trees in the front yard. The atmosphere is quiet and peaceful.",
+        "summary": "Change the house in the picture to a large business."
+    },
+    {
+        "content": "This image shows a street corner with a small park in the background. There are several cars parked on the street, including a red pickup truck. The residential buildings behind the park are visible in the background, with several windows and doors visible. The weather appears to be sunny and there are no apparent activities or people in the image. The lighting is bright and the atmosphere is calm.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "This image shows a residential street with several houses on either side. There are several cars parked on the street, but it's not clear if they are residents or visitors. The street is lined with trees and there is a sidewalk on either side. The atmosphere is quiet and peaceful, with no apparent activity or noise. The lighting is bright and well-lit, with the sun shining down on the street. The weather is not apparent in the image. Overall, the image depicts a quiet and well-maintained residential street.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "This image shows a residential neighborhood with two houses on the side of a street. The houses are made of red brick and have white windows and doors. There are several cars parked in front of the houses, including a red sedan and a grey SUV. The street is well-paved and there are some trees and shrubs along the sidewalk. The weather is cloudy and there is no sunlight or rain in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "This image shows a residential house on a street. The house is a two-story white building with a small lawn in front. There are some trees and bushes in the yard. The weather is sunny and there is no rain or clouds in the sky. The road is a paved road and there are no cars in the image. The building is not in a populated area and there are no people or activities visible in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "This image shows a grassy field with a small tree in the foreground. In the background, there is a blue sky with a bright sun shining down on the field. There are no visible buildings or other structures in the image. The lighting is bright and sunny, and the atmosphere is peaceful and serene. There are no visible signs or indications of the former use of the property, which was a school.",
+        "summary": "Change the tree in the picture to a large tree."
+    },
+    {
+        "content": "This image shows a street corner with a traffic light at the intersection. There are several cars parked on the street, and a few people are walking on the sidewalk. The lighting is dim, with some shadows cast by the trees and buildings on the street. The atmosphere is calm and peaceful.",
+        "summary": "Change the sidewalk to a cobblestone road."
+    },
+    {
+        "content": "The image shows a street with a traffic light at the intersection. There are trees on the left side of the street and a few buildings on the right side. The street is well maintained and there are no visible signs of neglect or litter. The lighting is bright and the atmosphere is peaceful. There are no visible signs of crime or danger in the image.",
+        "summary": "Remove the trees in the picture and replace them with a road."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side. The houses are made of brick and have two-car garages. The street is well maintained with trees lining the sidewalk. There are no people or vehicles visible in the image. The sky is clear and blue with a few clouds in the distance. The atmosphere is quiet and peaceful. The lighting is bright and sunny, with shadows cast by the trees and buildings.",
+        "summary": "Change the buildings in the image to two houses."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side. The houses are made of white stucco and have two stories each. There are no people or cars in the image. The weather is sunny and there is a slight breeze. The road is well maintained and there are no potholes or cracks. The atmosphere is quiet and peaceful. The lighting is bright and the shadows are minimal.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "This image shows a residential street with two houses on either side. The houses are made of brick and have large windows and well-manicured lawns. There are several cars parked on the street, including a red sedan and a silver SUV. The sky is clear and blue, with a few clouds in the distance. The atmosphere is quiet and peaceful. The road is well-maintained and there are no visible signs of damage or wear and tear. The houses look well-kept and the lawns are well-manicured. Overall, the image provides a peaceful and welcoming atmosphere for the residents of the street.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side. The houses are two-story with white siding and green lawns. There are no people or cars in the image. The weather is sunny and the road is paved. The atmosphere is quiet and peaceful. The lighting is bright and evenly distributed.",
+        "summary": "Change the green houses to white ones."
+    },
+    {
+        "content": "The image shows a residential street with several houses on the left side and a park on the right side. The houses are made of red bricks and have white windows and doors. There are several cars parked on the street, including a black sedan and a white SUV. The street is lined with trees and there is a sidewalk on the left side of the street. The weather is sunny and there are clouds in the sky. The atmosphere is quiet and peaceful.",
+        "summary": "Change the sidewalk to a cobblestone sidewalk."
+    },
+    {
+        "content": "The image shows a residential street with several houses on either side. There are two cars parked on the street, one on each side of the street. The houses are two-story with white siding and green shutters. There are trees lining the street, and the street is well maintained. The weather is sunny and there is a blue sky with a few clouds. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green houses to white ones."
+    },
+    {
+        "content": "The image shows a street corner with a small park on the left side and a building on the right side. The building is a red brick structure with white windows and a steeple on the roof. There are several trees in the park, including a large oak tree in the foreground. The street is marked with a white crosswalk and there are no cars visible in the image. The weather is cloudy and there are no people visible in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green tree in the picture to an oak tree."
+    },
+    {
+        "content": "The image shows a residential street with houses on either side. The houses are well maintained with green lawns and trees. There is a small park in the center of the street with trees and a bench. The weather is sunny and there are no visible clouds in the sky. The road is well maintained and there are no visible potholes or cracks. The atmosphere is quiet and peaceful. There are no visible signs of crime or disorder in the image. People are not visible in the image. There are no apparent hazards or risks to pedestrians or vehicles in the image.",
+        "summary": "Change the green grass in the picture to Maple grass."
+    },
+    {
+        "content": "The image shows a residential street with tall trees lining the sidewalk on either side. There are several cars parked on the street, and some people can be seen walking on the sidewalk. The street is lined with yellow lamps, and the houses on either side are painted in different colors such as blue and green. The atmosphere is quiet and peaceful, with the sound of birds chirping in the trees and the occasional car engine sound in the background. The weather is sunny and there are no visible clouds in the sky.",
+        "summary": "Remove the trees on the ground."
+    },
+    {
+        "content": "The image shows a long, narrow road that runs along the side of a brick wall. The wall is made of red bricks and is several feet high. There are no trees or other vegetation on the side of the road, and the sky is clear and blue. There are no people or vehicles visible in the image. The lighting is bright and the atmosphere is quiet and serene. The weather is sunny and there are no clouds in the sky.",
+        "summary": "Add a traffic light at the intersection."
+    },
+    {
+        "content": "The image shows a long, red brick wall that runs along the side of a road. The wall is tall and stretches for a considerable distance. There are no visible trees or other vegetation on either side of the wall. The sky is clear and blue, with a few clouds visible in the distance. There are no people or vehicles in the image. The lighting is bright and sunny, with the sun shining down on the wall and road. The atmosphere is calm and peaceful, with no apparent noise or activity in the image.",
+        "summary": "Add a road sign on the wall."
+    },
+    {
+        "content": "The image shows a residential building with several cars parked in front of it. The building is made of brick and has white windows and a black door. There are trees on either side of the street, and there is a sidewalk running in front of the building. The weather is clear and sunny, and there are no visible activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the sidewalk to a cobblestone sidewalk."
+    },
+    {
+        "content": "This image shows a row of three red brick apartment buildings on a sidewalk with a parked car on the street. The buildings appear to be in a residential area, with trees and greenery on either side of the street. There are no people visible in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "The image shows a street with a residential neighborhood. There are several houses on the street, each with a different color and style. Some have small yards with trees and shrubs, while others have larger yards with lawns and gardens. There are also several power lines running along the street, and some small trees and shrubs in the front yards. The weather is sunny and there are no visible clouds in the sky. The road is well-maintained and there are no visible potholes or cracks. The atmosphere is quiet and peaceful, with no apparent activity or noise on the street.",
+        "summary": "Add a few monkeys"
+    },
+    {
+        "content": "The image shows a street corner with a white car parked on the side of the road. There are several trees and a building in the background. The weather is sunny and there are no visible activities or people in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the white car to a yellow car."
+    },
+    {
+        "content": "This image shows a residential street with several red brick houses on either side. There are several cars parked on the street, and it appears to be a quiet and peaceful neighborhood. The weather is likely sunny, and the road is paved. The atmosphere is calm and serene.",
+        "summary": "Change the houses in the picture to red brick houses."
+    },
+    {
+        "content": "This image shows a street with several cars parked on the side of a residential road. The street is lined with trees and there is a small park at the end of the street. The building in the background is a red brick house with a white garage door and two windows on the second floor. The sky is clear and blue, and there are no clouds in sight. The lighting is bright and the atmosphere is peaceful.",
+        "summary": "Remove the cars from the scene"
+    },
+    {
+        "content": "This image shows a residential street with several red brick houses on either side. There are several cars parked on the side of the street, and it appears to be a quiet neighborhood. The weather is clear and sunny, and the road is well-maintained. The atmosphere is peaceful and serene.",
+        "summary": "Change the houses in the picture to red brick houses."
+    },
+    {
+        "content": "This image shows a residential street with a red pickup truck parked on the side of the road. The house in the background is a two-story dwelling with a green lawn and a white picket fence. There are some trees on the lawn and a few cars parked on the street. The weather is sunny and the lighting is bright and cheerful. The atmosphere is peaceful and serene.",
+        "summary": "Change the houses in the picture to Victorian architecture."
+    },
+    {
+        "content": "This image shows a residential street with two cars parked on the side. The houses are made of red brick and have white windows and doors. There are trees on the side of the street and a power line running along the top of the image. The weather is sunny and the atmosphere is peaceful.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "The image shows a street corner with a sign post at the intersection. There is a man standing on the corner, looking at something on the sidewalk. There are several power lines running along the street, and a few trees on the sidewalk. The sky is clear, with a few clouds in the distance. The atmosphere is quiet and peaceful. The lighting is bright and sunny, with the sun shining down on the corner.",
+        "summary": "Change the man to a cobblestone road."
+    },
+    {
+        "content": "This image shows a gas station on a street corner. The gas station is located on a street with a few cars parked at the pumps and in the parking lot. The building is a simple white and blue structure with a canopy over the entrance. There are no people visible in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the scene to a night scene."
+    },
+    {
+        "content": "This image shows a street corner with a red car at the intersection. There is a pedestrian crossing the street at the corner. The sky is cloudy. The lighting is bright and the atmosphere is calm. There are no people visible in the image. The road is a one-way street with a traffic light at the intersection. The building on the corner is a commercial building with windows on the first floor and a door on the second floor. There are no trees or other vegetation in the image. The lighting is bright and the sky is cloudy, giving the image a bright and peaceful atmosphere.",
+        "summary": "Change the pedestrian to a yellow car."
+    },
+    {
+        "content": "The image shows a city street with a mix of residential and commercial buildings on either side of the road. There are no people visible in the image. The sky is clear and blue, with a few clouds in the distance. The road is well maintained and there are no potholes or other imperfections. The overall atmosphere is quiet and peaceful.",
+        "summary": "Change it to a night scene"
+    },
+    {
+        "content": "This image shows a row of houses on a street. The houses are made of red brick and have large windows. There are several cars parked on the side of the road, and there is a small parked car at the end of the street. The weather is sunny and there are no people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the small car to a yellow car."
+    },
+    {
+        "content": "This image shows a row of houses on a street. The houses are made of red bricks and have white windows and doors. There are no people or cars in the image. The weather is sunny and there is a cloud in the sky. The atmosphere is quiet and peaceful. The lighting is bright. The road is smooth and well maintained.",
+        "summary": "Change the road to a Gravel Road."
+    },
+    {
+        "content": "The image shows a street with several row houses on the left side and a small park on the right side. The street is lined with trees and there are a few cars driving on the road. The weather is sunny and there is a slight breeze. The atmosphere is peaceful and quiet.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "The image shows a road with a tree lined on either side. There are no cars or other vehicles visible in the image. The lighting is dim and the atmosphere is peaceful and serene. The season is likely fall or spring, as there are no leaves on the trees. The weather is sunny and there are no clouds in the sky. The power lines in the image are not a concern as they are not a safety hazard and do not detract from the overall aesthetic of the image. Overall, the image is peaceful and serene, with a tree lined road and a gentle slope.",
+        "summary": "Add a person"
+    },
+    {
+        "content": "The image shows a city street with trees lining the sides. There is a sunny day with bright sunshine shining down on the road, which is lined with a thin white line on the left side. There are no cars on the road, and the road is empty. The atmosphere is peaceful and serene, with the sunlight casting a warm glow on the road and the trees. The weather is sunny, and the season is spring or summer. The people in the image are not visible, as there are no cars or individuals on the road. The activity is walking or driving on the road.",
+        "summary": "Change the scene to a rainy day."
+    },
+    {
+        "content": "The image shows a wooded road with trees lining on either side. The sun is shining through the trees, casting a warm, golden light on the road and the trees. There are no people in the image. The atmosphere is peaceful and serene. The weather is sunny. The road is well-maintained and the building is not visible in the image.",
+        "summary": "Add a bridge"
+    },
+    {
+        "content": "This image shows a large, red brick apartment building with several cars parked in front of it on a green lawn. The building is surrounded by trees and there is a sidewalk running in front of it. The weather is sunny and there is a blue sky with a few clouds in the background. The road is well maintained and there are no visible signs or markings on it. The people in the image are not visible, but there are some cars parked in front of the building. The lighting is bright and the atmosphere is peaceful.",
+        "summary": "Change the sidewalk to a cobblestone sidewalk."
+    },
+    {
+        "content": "This image shows a street corner with a residential building on the left side and a small park on the right side. The building appears to be a house with several windows and a door. There are no cars or people in the image. The weather is sunny and there is no rain or other precipitation. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green tree to a yellow tree."
+    },
+    {
+        "content": "This image shows a street corner with a small road running north south. There are several trees lining the road on the left side and a few houses on the right side of the road. The sky is clear and there are no clouds in sight. The season is likely spring or summer, as there are no visible leaves on the trees. The lighting is bright and the atmosphere is peaceful. There are no visible cars or people in the image.",
+        "summary": "Change the houses in the picture to single-story buildings."
+    },
+    {
+        "content": "The image shows a street with a row of houses on the left side and a green area on the right side. The houses are made of brick and have two stories each. There are no people or cars on the street. The weather is sunny and there is a slight breeze. The atmosphere is quiet and peaceful. The lighting is bright and clear, with the sun shining down on the street and the buildings.",
+        "summary": "Change the green area on the right of the image to a Library."
+    },
+    {
+        "content": "The image shows a residential street in the fall with tall trees lining the sides. The street is lined with yellow lines and there are power lines running along the top of the image. There are several houses on the left side of the street, with one of them having a white picket fence and another with a green roof. On the right side of the street, there is a small park with trees and a few walkways. The weather is sunny and there are no clouds in the sky. The atmosphere is peaceful and serene. There are no cars or people in the image.",
+        "summary": "Add a red door to the white picket fenced house on the left."
+    },
+    {
+        "content": "The image shows a street with several buildings on either side. There are no people visible in the image. The sun is shining brightly in the sky, casting a warm glow on the street. The buildings appear to be residential, with no visible activity or cars parked on the street. The atmosphere is calm and quiet, with no apparent activity or noise. The lighting is bright and sunny, with the sun casting a warm glow on the street and the buildings. The weather appears to be clear and sunny. The road is narrow and winding, with a few cars parked on the side. The overall scene is peaceful and serene, with no apparent activity or noise.",
+        "summary": "Change the buildings in the image to Maple trees."
+    },
+    {
+        "content": "The image shows a residential street with two houses on either side. The houses are made of wood and have two stories each. There are no people visible in the image. The weather is sunny and there is a blue sky with a few clouds. The road is smooth and there are no visible cars or other vehicles. The atmosphere is quiet and peaceful.",
+        "summary": "Change the buildings in the picture to Victorian architecture."
+    },
+    {
+        "content": "This image shows a street with a row of houses on the left side and a parked car on the right side. The sky is clear and there are trees in the park. The atmosphere is quiet and peaceful. There are no people in the image. The weather is sunny. The road is narrow and the buildings are made of wood and brick. The lighting is bright and the season is spring or summer.",
+        "summary": "Change the buildings in the image to Victorian architecture."
+    },
+    {
+        "content": "The image shows a street with a few cars parked on the side of the road. The building on the corner of the street is a small, blue and white painted building with a few people walking in front of it. The sky is clear and blue with a few clouds. The lighting is bright and the atmosphere is calm and peaceful.",
+        "summary": "Change the blue building to a yellow one."
+    },
+    {
+        "content": "The image shows a residential street with a row of houses on either side. The houses are made of red brick and have large windows and porches. There are trees lining the street, including oak and maple, and their leaves have started to turn to orange and yellow. There is a car parked on the street, and a person can be seen walking on the sidewalk. The atmosphere is peaceful and serene, with the sun shining down on the street and the leaves creating a canopy above. The lighting is bright and sunny, with the sun casting shadows on the pavement and the leaves. The season is fall, with the leaves changing colors and the weather cool and crisp.",
+        "summary": "Change the houses in the image to single-story buildings."
+    },
+    {
+        "content": "The image shows a street corner with a traffic signal at the intersection. There are several cars parked on the street, and a few pedestrians can be seen walking on the sidewalk. The building on the corner is a commercial building with several windows on the first floor and a door on the second floor. The building is white with green trim and a black awning. The sky is cloudy with a few clouds. There are no trees or other vegetation in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the white building to a yellow one."
+    },
+    {
+        "content": "The image shows a city street with a concrete road and a sidewalk on either side. There are no cars or people in the image. The sky is cloudy and there are some light rain clouds in the distance. The atmosphere is subdued and quiet.",
+        "summary": "Add a running train to the sidewalk."
+    },
+    {
+        "content": "The image shows a city street with a few buildings on either side. There is a red brick building on the left with a white sign that says 'city hall' on it. On the right, there is a red brick building with a white sign that says 'police station' on it. The street is lined with trees and there is a sidewalk on either side. The sky is cloudy with a few clouds. There are no people visible in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the city hall sign to a yellow sign"
+    },
+    {
+        "content": "This image shows a street corner with a building in the background. The building is a two-story house with white siding and a small porch. There are no people or cars in the image. The sun is shining, and the sky is clear. The atmosphere is calm and peaceful. The lighting is bright and warm, with the sun shining directly on the street. The weather is sunny and warm.",
+        "summary": "Change the house in the image to a two-story brick house."
+    },
+    {
+        "content": "The image shows a street with two rows of houses on either side. The houses are made of wood and have two stories each. There are no people or cars in the image. The sky is clear and there is no rain or other weather conditions visible. The atmosphere is quiet and peaceful. The lighting is bright and sunny, with the sun shining directly on the street. The season is likely spring or summer, as there are no visible leaves or snow on the trees. The road is well-maintained and there are no potholes or other defects visible. The image is a still from a video or photo shoot.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "The image shows a street corner with a few parked cars on the side of the road. There are some trees and a few houses in the background. The sky is clear and there are some clouds in it. The atmosphere is peaceful and quiet.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "The image shows a residential street with tall trees lining the sides. There are several cars parked on the side of the road, and some people walking on the sidewalk. The sky is clear and sunny, with a few clouds in the distance. The road is well-maintained, and the buildings on either side are typical of a residential street. The overall atmosphere is quiet and peaceful, with the sounds of birds chirping and the occasional car engine sounding in the background.",
+        "summary": "Change it to a rainy scene."
+    },
+    {
+        "content": "This image shows a residential yard with a backyard and a fence. The yard is well maintained with a lawn and some small trees. There is a trampoline in the corner of the yard, and a few trees and bushes in the background. The sky is clear and blue with some clouds. The lighting is bright and the atmosphere is peaceful. There are no visible signs of life in the image, such as people or vehicles.",
+        "summary": "Add a few fruit trees."
+    },
+    {
+        "content": "The image shows a city street with several small houses on the left side and a building under construction on the right side. The street is lined with trees and there are no people in sight. The weather is sunny and the atmosphere is quiet. The lighting is bright and the season is spring or summer.",
+        "summary": "Add a running car to the scene."
+    },
+    {
+        "content": "The image shows a street corner with a small park in the foreground and a row of cars in the background. The park is filled with greenery and has a few trees and a few benches. The sky is clear and blue. The lighting is bright and natural, with the sun shining down on the scene. The atmosphere is peaceful and serene.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "This image shows a row of three houses on a residential street. The houses are made of wood and have white windows and brown facades. There are several cars parked in front of the houses, including a red and a white car. The weather is sunny and there is no rain or snow in the image. The atmosphere is quiet and peaceful, with no visible activity or people in the image.",
+        "summary": "Change the white car to a red one."
+    },
+    {
+        "content": "The image shows a street with tall, colorful buildings on either side. There are several cars parked on the side of the street, and the weather appears to be sunny and clear. The atmosphere is lively and bustling. The lighting is bright and sunny, with the sun shining down on the street. Overall, the image shows a vibrant and lively neighborhood, with a diverse array of buildings and people going about their daily business.",
+        "summary": "Change the buildings in the image to high-rise skyscrapers."
+    },
+    {
+        "content": "This image shows a street corner with several cars parked on the side of the road. The street is lined with a mix of residential and commercial buildings. There are no people visible in the image. The lighting is bright and the atmosphere is calm.",
+        "summary": "Change the green car to a yellow one."
+    },
+    {
+        "content": "The image shows a street with an abandoned building on the left side and a parking lot on the right side. The building appears to be in disrepair and there are no people or activities in the image. The weather appears to be clear and sunny, with a blue sky. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Change the green tree in the picture to Maple trees."
+    },
+    {
+        "content": "This image shows a abandoned road in a rural area. The road is lined with weeds and trees on either side. There is an old building in the distance, which appears to be in a state of disrepair. The sky is clear and blue, with a few clouds in the distance. There are no people or vehicles in the image. The atmosphere is quiet and desolate.",
+        "summary": "Remove the weeds and trees on the road."
+    },
+    {
+        "content": "The image shows a street with several dilapidated buildings on either side. The street is lined with debris and weeds. There is no traffic on the road. The sky is clear and blue with a few clouds in the distance. The lighting is bright and sunny, with the sun low in the sky. The atmosphere is quiet and deserted, with no people or activities in sight.",
+        "summary": "Remove the weeds and debris from the ground."
+    },
+    {
+        "content": "This image shows an old building with several broken windows and a gate in front of it. The building appears to be in a state of disrepair. There are no people or vehicles in the image. The lighting is dim and the atmosphere is quiet. The sky is clear and blue. The weather is likely to be sunny and warm.",
+        "summary": "Change the old building to a restaurant."
+    },
+    {
+        "content": "The image shows a street with several red brick apartment buildings on either side. There are no cars driving on the street. The sun is shining, and the sky is clear. The atmosphere is peaceful and quiet. The road is smooth and well-maintained. The buildings look well-kept and in good condition. There are no visible signs of neglect or disrepair. The weather is sunny and pleasant.",
+        "summary": "Change the buildings in the image to Chinese-style architecture."
+    },
+    {
+        "content": "This image shows a residential street with a row of houses on either side. The houses are made of red brick and have white windows and green shutters. There are a few trees on the side of the road, their leaves just beginning to turn red for the fall season. There is a car parked on the side of the road, its silhouette visible against the bright sunlight. The sky is clear and blue, with a few clouds in the distance. The atmosphere is quiet and peaceful, with no visible activity on the street.",
+        "summary": "Change the green houses to red brick houses."
+    },
+    {
+        "content": "The image shows a street with a tree lining the sidewalk. The tree is in full autumn foliage and its red, orange and yellow leaves fall on the ground. There are a few houses on the street, with some cars parked on the road. The lighting is dim, with the sun casting a warm glow on the street. The atmosphere is peaceful and serene.",
+        "summary": "Remove the trees in the picture and replace them with a road."
+    },
+    {
+        "content": "The image shows a street with a row of houses on the left side and a minor road on the right side. The houses are made of red brick and have white windows and doors. There are no cars on the street. The sky is clear and blue with a few clouds. The season is fall or spring. There are no trees on the street or in front of the houses. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Add a running car"
+    },
+    {
+        "content": "This image shows a street corner with a small park on the left side and a building on the right side. There are several cars parked on the street. The sky is clear and there are no clouds in sight. The atmosphere is calm and peaceful. The lighting is bright and well-defined.",
+        "summary": "Change the buildings in the image to high-rise skyscrapers."
+    },
+    {
+        "content": "This image shows a residential street with a few cars parked on the side of the road. The houses on the street are well-maintained and there are some trees and bushes in the front yard. The sky is clear and there are power lines running along the street. The overall atmosphere is quiet and peaceful.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "This image shows a street with one car and two cars running on it. The street is lined with trees on the left side and houses on the right side. The houses are two-story with red roofs and white windows. There are no people in the image. The weather is sunny and the lighting is bright. The atmosphere is quiet and peaceful.",
+        "summary": "Change the two cars on the scene to Maple trees."
+    },
+    {
+        "content": "This image shows a street with one car parked on the side of the road and another driving down the road. There are trees on either side of the street, and there are no people visible in the image. The lighting is bright and the atmosphere is quiet. The building in the image is a residential complex with two floors and a total of four units. The street is a local road with no heavy traffic. The season is likely spring or summer, based on the vegetation and the lack of snow or ice on the road and buildings. The image is well-composed with good detail and lighting, and the cars are visibly and clearly depicted. Overall, the image provides a clear visual representation of the scene.",
+        "summary": "Remove the parked car"
+    },
+    {
+        "content": "The image shows a street with several parked cars on the side of a row of red brick houses. The houses have white windows and green shutters. There are no people visible in the image. The weather appears to be sunny and there are no apparent activities happening on the street. The lighting is bright and the atmosphere is quiet and peaceful.",
+        "summary": "Change the green shutters to Maple trees."
+    },
+    {
+        "content": "The image shows a street with several parked cars on the side of a residential neighborhood. The street is lined with trees and there are several buildings visible in the background. The weather appears to be sunny and there are no apparent activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green trees in the picture to Maple trees."
+    },
+    {
+        "content": "The image shows a quiet street with trees lining the sidewalk. The sun is shining down on the street, casting a bright light on the ground and the buildings on either side. There are no people visible in the image. The atmosphere is peaceful and serene. The road is made of dirt and grass. The buildings on either side are made of wood and concrete. The weather is sunny.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "The image shows a street with a few buildings on either side. The street is lined with trees and there is a stop sign at the intersection. The buildings are red brick and there are no people visible in the image. The weather is sunny and the atmosphere is quiet. The lighting is bright and the season is spring or summer.",
+        "summary": "Change the green trees in the picture to red brick trees."
+    },
+    {
+        "content": "This image shows a row of three red brick houses on a street. The houses have small front yards with trees and bushes. There is a parked car in the front of the house on the left, and two cars are parked on the street on the right. The weather is sunny and there are no people visible in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Add a running car under the tree."
+    },
+    {
+        "content": "The image shows a row of three red brick houses with small front yards and a small tree in front of the middle house. The houses are located on a hill and have a staircase leading up to the front door. There are no people or cars in the image. The lighting is dim, with shadows cast by the trees and buildings. The atmosphere is quiet and peaceful. The weather appears to be sunny. The road is visible in the foreground, and the houses are visible in the background. The image is taken from the side view of the houses.",
+        "summary": "Add a road in the picture"
+    },
+    {
+        "content": "The image shows a city street with a fence running along the sidewalk. There are several trees lining the street and a small park in the distance. The sky is clear and blue with a few clouds. There are no visible buildings or structures in the image. The lighting is bright and sunny, with shadows cast by the trees and fence. The atmosphere is peaceful and serene. There are no visible people or vehicles in the image.",
+        "summary": "Add a bus stop"
+    },
+    {
+        "content": "The image shows a school bus driving down a street. There are several cars parked on the street, and some people are getting on or off the bus. The weather appears to be sunny, and the building in the background is a red brick school. The lighting is bright and the atmosphere is bustling.",
+        "summary": "Remove the cars on the ground."
+    },
+    {
+        "content": "This image shows a former building on a empty lot. The building appears to be old and abandoned. There are no trees or other vegetation on the lot. The sky is clear and blue with some clouds. There are no people or vehicles in the image. The lighting is bright and the atmosphere is quiet.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "This image shows a residential street with several houses on the left side. The houses are white with green lawns and trees in the front. There is a power line running along the street and a small tree on the sidewalk. On the right side of the image, there is a small park with trees and a playground. The weather is sunny and there are no cars on the street. The atmosphere is peaceful and serene.",
+        "summary": "Change the white lines on the ground to road signs."
+    },
+    {
+        "content": "The image shows a residential street with several houses on either side. There are several cars parked on the street, including a white SUV and a black sedan. The houses are all different colors and styles, with some having white or green windows and others having brown or blue siding. The street is well-maintained, with green grass and trees on either side. The atmosphere is quiet and suburban. The lighting is bright and sunny, with the sun shining directly onto the street. The weather is likely clear and sunny, with no clouds or rain in the image.",
+        "summary": "Change the sedan to a yellow car."
+    },
+    {
+        "content": "The image shows a row of three houses on a residential street. The houses are made of brick and have white windows and green shutters. There are several cars parked on the street in front of the houses. The weather is sunny and there is a slight breeze. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green houses to red ones."
+    },
+    {
+        "content": "The image shows a street with several parked cars on the side of a residential building. The building is a two-story house with a white facade and a red door. There are several trees and bushes in the front yard, and a few parking spots on the street. The weather is sunny and there are no apparent activities or people in the image. The atmosphere is quiet and peaceful.",
+        "summary": "Remove the cars from the scene"
+    },
+    {
+        "content": "This image shows a residential street with two houses on either side. The houses are white with green shutters and red roofs. There are trees in the front yard, including a large pine tree and a smaller tree. The street is well-maintained with pavement and there are no visible defects or issues. There is a red car parked in the driveway of one of the houses, and there are no people or activities visible in the image. The lighting and atmosphere are bright and peaceful, with the sun shining down on the street and the trees casting pleasant shadows on the ground.",
+        "summary": "Change the green houses to white ones."
+    },
+    {
+        "content": "The image shows a residential street with several houses on the left side. The houses are made of brick and have white windows and green shutters. There are a few trees on the street and a small park in the distance. The sky is clear and blue with a few clouds. There are no people or cars on the street. The atmosphere is quiet and peaceful.",
+        "summary": "Add a zebra crossing at the intersection."
+    },
+    {
+        "content": "This image shows a street with two houses on either side. The houses are made of wood and have two stories each. There are cars parked on the street, but it's not clear how many there are. The weather is sunny and there are trees on either side of the street. The atmosphere is quiet and peaceful.",
+        "summary": "Change the buildings in the picture to single-story houses."
+    },
+    {
+        "content": "This image shows a row of three white houses with red roofs and one white house with a green roof on a street. There are several cars parked on the side of the street. The weather is sunny and the road is paved. The atmosphere is quiet and peaceful.",
+        "summary": "Change the green house in the picture to a yellow house."
+    },
+    {
+        "content": "The image shows a bus parked on the side of the road in front of a building. The building is a gray concrete structure with windows and a door. There are several trees and bushes in the foreground, and a parking lot can be seen in the background. The sky is clear and blue, with a few clouds in the distance. The lighting is bright and the atmosphere is calm.",
+        "summary": "remove the bus"
+    },
+    {
+        "content": "The image shows a street with a grassy median dividing the road. There are trees on either side of the street, and there are a few buildings on the left side of the image. There is a parking lot on the right side of the image, and several cars are parked in it. The sky is clear and blue, with a few clouds in the distance. The lighting is bright and sunny, with the sun shining directly on the road and the buildings. The atmosphere is peaceful and suburban. There are no signs or advertisements in the image.",
+        "summary": "Change the buildings in the image to Maple trees."
+    },
+    {
+        "content": "The image shows a street corner with a stop sign at the intersection. There are several cars parked on the side of the road, and there is a building on the left side of the image. The sky is clear and blue, with a few clouds in the distance. The atmosphere is calm and peaceful.",
+        "summary": "Change the green car in the image to a yellow Truck."
+    },
+    {
+        "content": "This image shows a street with several power lines running along the side of a residential building. There are several cars parked on the street, and there is no people in the image. The weather appears to be sunny and clear, with a few clouds in the sky. The atmosphere is quiet and peaceful. The building in the image appears to be a residential complex with several floors and a balcony on the second floor. The street is well-maintained and there are no visible signs of traffic or noise. Overall, the image provides a peaceful and serene view of a residential street on a sunny day.",
+        "summary": "Change the power lines to rainbow colors."
+    },
+    {
+        "content": "The image shows a parking lot with several parked cars on it. There are trees and a building in the background, which appears to be a hotel or extended stay hotel. The sky is clear and blue with a few clouds. The road is well-maintained and there are no potholes or debris on it. The overall atmosphere is quiet and peaceful.",
+        "summary": "Change the road to a Gravel Road."
+    },
+    {
+        "content": "The image shows a street corner with a residential neighborhood in the background. The street is lined with trees and has a sidewalk on either side. There is a small park with trees and a playground in the foreground. The sky is clear and blue with a few clouds. The lighting is bright and sunny, with shadows cast by the trees on the sidewalk. The atmosphere is peaceful and serene. There are no visible signs of the former use of the property, such as buildings or infrastructure. The image is wellcomed and does not appear to be distorted or misleading.",
+        "summary": "Change it to a scene of road construction."
+    },
+    {
+        "content": "The image shows a row of three red brick houses on a residential street. There are several parked cars in front of the houses, and there is a small parked car at the end of the street. The sky is clear and blue, and there are no clouds in sight. The street is well-maintained, and there are no visible signs of neglect or neglect. The atmosphere is quiet and peaceful, with no apparent activity or noise in the street. The road is in good condition, with no potholes or cracks. The houses appear to be well-kept and in good condition. The overall scene is one of quiet, residential street with well-maintained properties and a clear sky.",
+        "summary": "Add a manhole cover."
+    },
+    {
+        "content": "This image shows a street with several residential houses on either side. There are several cars parked on the street, and there are no people visible in the image. The sky is clear and blue, with a few clouds in the distance. The atmosphere is quiet and peaceful. The lighting is bright and sunny, with the sun shining down on the street. The season is likely spring or summer, as there are no visible leaves or snow on the trees. The road is paved and in good condition. The building is a residential house with two stories and a garage. The roof is pitched and the windows are large. The overall atmosphere of the image is quiet and peaceful, with no visible activity or noise.",
+        "summary": "Change the buildings in the picture to Chinese-style architecture."
+    },
+    {
+        "content": "The image shows a narrow, winding street lined with red brick buildings on either side. There are several trash bins lined up on the side of the street, and a parked car on the side of the road. The weather is sunny and there are no people visible in the image. The atmosphere is quiet and peaceful, with the sound of birds chirping in the background.",
+        "summary": "Change the buildings in the image to high-rise skyscrapers."
+    }
+]
